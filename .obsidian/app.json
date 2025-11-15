@@ -1,0 +1,15 @@
+{
+  "livePreview": true,
+  "attachmentFolderPath": "attachments",
+  "useTab": true,
+  "showIndentGuide": true,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "vimMode": false,
+  "readableLineLength": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "000收集",
+  "spellcheck": false
+}

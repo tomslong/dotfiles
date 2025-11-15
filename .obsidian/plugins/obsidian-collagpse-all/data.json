@@ -1,0 +1,9 @@
+{
+  "commands": {
+    "Global": false,
+    "FileExplorer": true,
+    "TagPane": true,
+    "Search": false,
+    "Bookmarks": false
+  }
+}

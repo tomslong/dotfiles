@@ -1,0 +1,341 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home🏠.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home🏠"
+            }
+          },
+          {
+            "id": "8b9386ccd8418a33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "找工作🚩/技术栈 (个人).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "技术栈 (个人)"
+            }
+          },
+          {
+            "id": "f93aba40ec509f24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "找工作🚩/Python后端开发.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Python后端开发"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bf58a2f29fac89b",
+    "type": "split",
+    "children": [
+      {
+        "id": "046998a02b2dd135",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "638596efeb93a04e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "e4c527c892a88dd2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3d4468192a8d0502",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "07646cbb36116ec4",
+    "type": "split",
+    "children": [
+      {
+        "id": "67709bd5b7944f8a",
+        "type": "tabs",
+        "dimension": 57.829977628635355,
+        "children": [
+          {
+            "id": "cbba722c85f0b238",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "番茄钟🍅/2025-22周-5月.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2025-22周-5月 的大纲"
+            }
+          },
+          {
+            "id": "4a3b168967f6a027",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7fa6769635475ada",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ac8f2f01430156b4",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "bdf578052ddf9445",
+        "type": "tabs",
+        "dimension": 42.170022371364645,
+        "children": [
+          {
+            "id": "3c01e43ede80e47f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "d24395d965920ea7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "毕业论文/实验流程.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "实验流程 的反向链接列表"
+            }
+          },
+          {
+            "id": "7bb3a5bd589d0d09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "毕业论文/实验流程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "实验流程 的出链列表"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 475.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:打开/创建今天的日记": true,
+      "workspaces:管理工作区布局": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:创建新看板": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "templater-obsidian:Templater": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "e4c527c892a88dd2",
+  "lastOpenFiles": [
+    "copilot/copilot-conversations/9.11_and_9.8,_which_is_bigger@20251116_002049.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "找工作🚩/Python后端开发.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "找工作🚩/技术栈 (个人).md",
+    "番茄钟🍅/2025-23周-6月.md",
+    "番茄钟🍅/2025-46周-11月.md",
+    "番茄钟🍅/2025-47周-11月.md",
+    "番茄钟🍅/2025-48周-11月.md",
+    "Home🏠.md",
+    "找工作🚩",
+    "000收集📩/未命名.md",
+    "番茄钟🍅/2025-22周-5月.md",
+    "attachments🔨/templates/番茄钟内容模板.md",
+    "attachments🔨/templates/番茄钟标题模板.md",
+    "attachments🔨/templates/每日工作汇报.md",
+    "番茄钟🍅 1",
+    "番茄钟🍅",
+    "attachments/arab_k65.histo",
+    "attachments/arab_k60.histo",
+    "attachments/arab_k55.histo",
+    "attachments/arab_k50.histo",
+    "Canvas/未命名 1.canvas",
+    "attachments/Pasted image 20250428001522.png",
+    "Untitled Diagram 2.svg",
+    "Untitled Diagram 1.svg",
+    "Untitled Diagram.svg",
+    "020项目🚧/Django项目/django架构.canvas",
+    "Canvas/未命名.canvas",
+    "attachments🔨/imgs/img2.jpg",
+    "attachments🔨/imgs/img01.gif",
+    "attachments🔨/imgs/caleb-riston.jpg",
+    "Canvas/高效工作.canvas",
+    "051 计算机考研/知识大纲.canvas",
+    "051 计算机考研/备考规划.canvas",
+    "attachments/Pasted image 20241117204131.png",
+    "attachments/Pasted image 20241116203937.png",
+    "Canvas/近期的规划.canvas",
+    "051 计算机考研/考研其他信息/报名流程.canvas",
+    "attachments/Pasted image 20241023173718.png",
+    "030知识📚/T 计算机科学与技术/数据结构与算法/Cpp/c++map.canvas",
+    "051 计算机考研/知识地图.canvas"
+  ]
+}

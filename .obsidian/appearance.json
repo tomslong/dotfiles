@@ -1,0 +1,16 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "baseFontSize": 19,
+  "interfaceFontFamily": "思源宋体 CN",
+  "textFontFamily": "思源宋体 CN",
+  "translucency": false,
+  "monospaceFontFamily": "JetBrains Mono Regular",
+  "enabledCssSnippets": [
+    "theme"
+  ],
+  "baseFontSizeAction": false,
+  "showRibbon": true,
+  "showViewHeader": true
+}
