@@ -127,11 +127,6 @@ nnoremap <leader>sg :Rg<CR>
 nnoremap <leader>sb :Buffers<CR>
 let g:fzf_layout = { 'window': { 'width': 0.9, 'height': 0.7 } }
 
-" Airline
-let g:airline#extensions#tabline#enabled = 1
-let g:airline_powerline_fonts = 1
-let g:airline_theme = 'onedark'
-
 " GitGutter
 let g:gitgutter_sign_allow_clobber = 0
 let g:gitgutter_map_keys = 0
